@@ -1,10 +1,6 @@
 {
     "DinoDipConfig": {
         "alwaysallowtaming": [
-            "/Game/ASA/Dinos/ShoulderDragon_Character_BP_Winter_C",
-	    "/Game/ASA/Dinos/ShoulderDragon_Character_BP_Summer_C",
-	    "/Game/ASA/Dinos/ShoulderDragon_Character_BP_Spring_C",
-	    "/Game/ASA/Dinos/ShoulderDragon_Character_BP_Autumn_C",
             "/Game/PrimalEarth/Items/Raft/Raft_BP.Raft_BP_C",
             "/Game/Extinction/Dinos/Mek/Mek_Character_BP.Mek_Character_BP_C",
             "/Game/Extinction/Dinos/Enforcer/Enforcer_Character_BP.Enforcer_Character_BP_C",
@@ -12,6 +8,11 @@
             "/Game/Extinction/Dinos/Scout/Scout_Character_BP.Scout_Character_BP_C",
             "/Game/Packs/Wasteland/Vehicles/Car/Car_Vehicle_BP.Car_Vehicle_BP_C",
             "/Game/Packs/Steampunk/Dinos/Zeppelin/Zeppelin_Character_BP.Zeppelin_Character_BP_C"
+	    "/Game/LostColony/Dinos/ShoulderDragon/ShoulderDragon_Character_BP_Autumn.ShoulderDragon_Character_BP_Autumn"
+	    "/Game/LostColony/Dinos/YoungIceFox/YoungIceFox_DinoCompanion_Character_BP.YoungIceFox_DinoCompanion_Character_BP"
+	    "/Game/ASA/Dinos/YoungIceFox/YoungIceFox_DinoCompanion_Character_BP.YoungIceFox_DinoCompanion_Character_BP"
+	    "/Game/ASA/Dinos/ShoulderDragon/ShoulderDragon_Character_BP_Summer.ShoulderDragon_Character_BP_Summer"
+	    "/Game/ASA/Dinos/ShoulderDragon/ShoulderDragon_Character_BP_Spring.ShoulderDragon_Character_BP_Spring"
         ],
         "weeksarrays": [
             {
