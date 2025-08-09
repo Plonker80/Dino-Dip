@@ -8,9 +8,8 @@
 			"/Game/Extinction/Dinos/Scout/Scout_Character_BP.Scout_Character_BP_C",
 			"/Game/Packs/Wasteland/Vehicles/Car/Car_Vehicle_BP.Car_Vehicle_BP_C",
 			"/Game/ASA/Dinos/Bison/Bison_Character_BP.Bison_Character_BP_C",
-			"/Game/LostColony/Dinos/YoungIceFox/YoungIceFox_DinoCompanion_Character_BP.YoungIceFox_DinoCompanion_Character_BP_C",
-			"/Game/ASA/Dinos/Cat/Cat_Character_BP.Cat_Character_BP_C",
-			"/Game/ASA/Dinos/ShoulderDragon/ShoulderDragon_Character_BP.ShoulderDragon_Character_BP_C",
+			"/Game/PrimalEarth/Dinos/Ptero/Ptero_Character_BP.Ptero_Character_BP_C",
+			"/Game/Genesis2/Dinos/MilkGlider/MilkGlider_Character_BP.MilkGlider_Character_BP_C",
 			"/Game/Packs/Steampunk/Dinos/Zeppelin/Zeppelin_Character_BP.Zeppelin_Character_BP_C"
 		],
 		"weeksarrays": [
@@ -21,23 +20,23 @@
 						"chancetodrop": 1
 					},
 					{
-						"dino": "/Game/Aberration/Dinos/LanternPug/LanternPug_Character_BP.LanternPug_Character_BP_C",
+						"dino": "/Game/PrimalEarth/Dinos/Dodo/Dodo_Character_BP.Dodo_Character_BP_C",
 						"chancetodrop": 1
 					},
 					{
-						"dino": "/Game/Aberration/Dinos/LanternGoat/LanternGoat_Character_BP.LanternGoat_Character_BP_C",
+						"dino": "/Game/ScorchedEarth/Dinos/Jerboa/Jerboa_Character_BP.Jerboa_Character_BP_C",
 						"chancetodrop": 1
 					},
 					{
-						"dino": "/Game/Aberration/Dinos/LanternLizard/LanternLizard_Character_BP.LanternLizard_Character_BP_C",
+						"dino": "/Game/PrimalEarth/Dinos/Lystrosaurus/Lystro_Character_BP.Lystro_Character_BP_C",
 						"chancetodrop": 1
 					},
 					{
-						"dino": "/Game/ASA/Dinos/Bison/Bison_Character_BP.Bison_Character_BP_C",
+						"dino": "/Game/PrimalEarth/Dinos/Monkey/Monkey_Character_BP.Monkey_Character_BP_C",
 						"chancetodrop": 1
 					},
 					{
-						"dino": "/Game/PrimalEarth/Dinos/Beaver/Beaver_Character_BP.Beaver_Character_BP_C",
+						"dino": "/Game/PrimalEarth/Dinos/Archaeopteryx/Archa_Character_BP.Archa_Character_BP_C",
 						"chancetodrop": 1
 					},
 					{
@@ -53,7 +52,7 @@
 						"chancetodrop": 1
 					},
 					{
-						"dino": "/Game/PrimalEarth/Dinos/Bee_Queen/Bee_Queen_Character_BP.Bee_Queen_Character_BP_C",
+						"dino": "/Game/PrimalEarth/Dinos/GiantTurtle/GiantTurtle_Character_BP.GiantTurtle_Character_BP_C",
 						"chancetodrop": 1
 					},
 					{
@@ -65,7 +64,7 @@
 						"chancetodrop": 1
 					},
 					{
-						"dino": "/Game/PrimalEarth/Dinos/GiantTurtle/GiantTurtle_Character_BP.GiantTurtle_Character_BP_C",
+						"dino": "/Game/PrimalEarth/Dinos/DungBeetle/DungBeetle_Character_BP.DungBeetle_Character_BP_C",
 						"chancetodrop": 1
 					},
 					{
@@ -73,7 +72,7 @@
 						"chancetodrop": 0.9
 					}
 				],
-				"dipstogive": 8
+				"dipstogive": 5
 			},
 			{
 				"weekforoptions": [
@@ -90,7 +89,7 @@
 						"chancetodrop": 0.95
 					},
 					{
-						"dino": "/Game/PrimalEarth/Dinos/ShoulderDragon/ShoulderDragon_Character_BP.ShoulderDragon_Character_BP_Autumn_C",
+						"dino": "/Game/PrimalEarth/Dinos/Bee/Bee_Queen_Character_BP.Bee_Queen_Character_BP_C",
 						"chancetodrop": 0.8
 					},
 					{
@@ -102,7 +101,7 @@
 						"chancetodrop": 0.9
 					},
 					{
-						"dino": "/Game/ASA/Dinos/ShoulderDragon/ShoulderDragon_Character_BP.ShoulderDragon_Character_BP_C",
+						"dino": "/Game/Aberration/Dinos/LanternPug/LanternPug_Character_BP.LanternPug_Character_BP_C",
 						"chancetodrop": 0.9
 					},
 					{
@@ -118,7 +117,7 @@
 						"chancetodrop": 0.9
 					},
 					{
-						"dino": "/Game/PrimalEarth/Dinos/Equus/Equus_Character_BP_Unicorn.Equus_Character_BP_Unicorn_C",
+						"dino": "/Game/PrimalEarth/Dinos/Gacha/Gacha_Character_BP.Gacha_Character_BP_C",
 						"chancetodrop": 0.7
 					},
 					{
@@ -134,7 +133,7 @@
 						"chancetodrop": 0.9
 					},
 					{
-						"dino": "/Game/PrimalEarth/Dinos/YoungIceFox/YoungIceFox_Character_BP.YoungIceFox_DinoCompanion_Character_BP_C",
+						"dino": "/Game/LostIsland/Dinos/Sinomacrops/Sinomacrops_Character_BP.Sinomacrops_Character_BP_C",
 						"chancetodrop": 0.95
 					}
 				],
@@ -143,7 +142,7 @@
 			{
 				"weekforoptions": [
 					{
-						"dino": "/Game/PrimalEarth/Dinos/Manta/Manta_Character_BP.Manta_Character_BP_C",
+						"dino": "/Game/Aberration/Dinos/LanternGoat/LanternGoat_Character_BP.LanternGoat_Character_BP_C",
 						"chancetodrop": 0.9
 					},
 					{
@@ -163,7 +162,7 @@
 						"chancetodrop": 0.9
 					},
 					{
-						"dino": "/Game/PrimalEarth/Dinos/Troodon/Troodon_Character_BP.Troodon_Character_BP_C",
+						"dino": "/Game/ASA/Dinos/YiLing/YiLing_Character_BP.YiLing_Character_BP_C",
 						"chancetodrop": 0.9
 					},
 					{
@@ -171,7 +170,7 @@
 						"chancetodrop": 0.6
 					},
 					{
-						"dino": "/Game/ASA/Dinos/YiLing/YiLing_Character_BP.YiLing_Character_BP_C",
+						"dino": "/Game/Packs/Steampunk/Dinos/JumpingSpider/JumpingSpider_Character_BP.JumpingSpider_Character_BP_C",
 						"chancetodrop": 0.8
 					},
 					{
@@ -195,7 +194,7 @@
 						"chancetodrop": 0.5
 					},
 					{
-						"dino": "/Game/PrimalEarth/Dinos/Bat/Bat_Character_BP.Bat_Character_BP_C",
+						"dino": "/Game/ASA/Dinos/DarkPegasus/DarkPegasus_Character_BP.DarkPegasus_Character_BP_C",
 						"chancetodrop": 0.9
 					}
 				],
@@ -228,11 +227,11 @@
 						"chancetodrop": 0.8
 					},
 					{
-						"dino": "/Game/Packs/Steampunk/Dinos/JumpingSpider/JumpingSpider_Character_BP.JumpingSpider_Character_BP_C",
+						"dino": "/Game/Aberration/Dinos/LanternLizard/LanternLizard_Character_BP.LanternLizard_Character_BP_C",
 						"chancetodrop": 0.6
 					},
 					{
-						"dino": "/Game/PrimalEarth/Dinos/Ptero/Ptero_Character_BP.Ptero_Character_BP_C",
+						"dino": "/Game/ASA/Dinos/Fasolasuchus/Fasola_Character_BP.Fasola_Character_BP_C",
 						"chancetodrop": 0.5
 					},
 					{
@@ -248,7 +247,7 @@
 						"chancetodrop": 0.7
 					},
 					{
-						"dino": "/Game/PrimalEarth/Dinos/Megalodon/Megalodon_Character_BP.Megalodon_Character_BP_C",
+						"dino": "/Game/Genesis/Dinos/Shapeshifter/Shapeshifter_Small/Shapeshifter_Small_Character_BP.Shapeshifter_Small_Character_BP_C",
 						"chancetodrop": 0.7
 					},
 					{
@@ -321,18 +320,6 @@
 						"chancetodrop": 0.5
 					},
 					{
-						"dino": "/Game/PrimalEarth/Dinos/CrystalWyvern/CrystalWyvern_Character_BP_Ember.CrystalWyvern_Character_BP_Ember_C",
-						"chancetodrop": 0.4
-					}
-					{
-						"dino": "/Game/PrimalEarth/Dinos/CrystalWyvern/CrystalWyvern_Character_BP_Blood.CrystalWyvern_Character_BP_Blood_C",
-						"chancetodrop": 0.4
-					}
-					{
-						"dino": "/Game/PrimalEarth/Dinos/CrystalWyvern/CrystalWyvern_Character_BP_WS.CrystalWyvern_Character_BP_WS_C",
-						"chancetodrop": 0.4
-					}
-					{
 						"dino": "/Game/PrimalEarth/Dinos/Argentavis/Argent_Character_BP.Argent_Character_BP_C",
 						"chancetodrop": 0.4
 					}
@@ -342,11 +329,11 @@
 			{
 				"weekforoptions": [
 					{
-						"dino": "/Game/Fjordur/Dinos/Desmodus/Desmodus_Character_BP.Desmodus_Character_BP_C",
+						"dino": "/Game/Aberration/Dinos/Crab/Crab_Character_BP.Crab_Character_BP_C",
 						"chancetodrop": 0.1
 					},
 					{
-						"dino": "/Game/PrimalEarth/Dinos/Tusoteuthis/Tusoteuthis_Character_BP.Tusoteuthis_Character_BP_C",
+						"dino": "/Game/Genesis/Dinos/Cherufe/Cherufe_Character_BP.Cherufe_Character_BP_C",
 						"chancetodrop": 0.3
 					},
 					{
@@ -362,15 +349,15 @@
 						"chancetodrop": 0.25
 					},
 					{
-						"dino": "/Game/ASA/Dinos/DarkPegasus/DarkPegasus_Character_BP.DarkPegasus_Character_BP_C",
+						"dino": "/Game/Extinction/Dinos/IceJumper/IceJumper_Character_BP.IceJumper_Character_BP_C",
 						"chancetodrop": 0.2
 					},
 					{
-						"dino": "/Game/Genesis/Dinos/Shapeshifter/Shapeshifter_Small/Shapeshifter_Small_Character_BP.Shapeshifter_Small_Character_BP_C",
+						"dino": "/Game/Genesis2/Dinos/BrainSlug/BrainSlug_Character_BP.BrainSlug_Character_B_C",
 						"chancetodrop": 0.4
 					},
 					{
-						"dino": "/Game/ASA/Dinos/Fasolasuchus/Fasola_Character_BP.Fasola_Character_BP_C",
+						"dino": "/Game/ScorchedEarth/Dinos/Phoenix/Phoenix_Character_BP.Phoenix_Character_BP_C",
 						"chancetodrop": 0.4
 					},
 					{
@@ -396,7 +383,27 @@
 					{
 						"dino": "/Game/PrimalEarth/Dinos/Rex/Rex_Character_BP.Rex_Character_BP_C",
 						"chancetodrop": 0.3
-					}
+					},
+					{
+						"dino": "/Game/Aberration/Dinos/CaveWolf/CaveWolf_Character_BP.CaveWolf_Character_BP_C",
+						"chancetodrop": 0.3
+					},
+					{
+						"dino": "/Game/Aberration/Dinos/CaveWolf/CaveWolf_Character_BP.CaveWolf_Character_BP_C",
+						"chancetodrop": 0.3
+					},
+					{
+						"dino": "/Game/PrimalEarth/Dinos/CrystalWyvern/CrystalWyvern_Character_BP_Blood.CrystalWyvern_Character_BP_Blood_C",
+						"chancetodrop": 0.3
+					},
+					{
+						"dino": "/Game/Fjordur/Dinos/Desmodus/Desmodus_Character_BP.Desmodus_Character_BP_C",
+						"chancetodrop": 0.3
+					},
+					{
+						"dino": "/Game/Aberration/Dinos/RockDrake/RockDrake_Character_BP.RockDrake_Character_BP
+						"chancetodrop": 0.3
+					},
 				],
 				"dipstogive": 5
 			}
