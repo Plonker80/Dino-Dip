@@ -126,11 +126,11 @@
 						"chancetodrop": 0.9
 					},
 					{
-						"dino": "/Game/PrimalEarth/Dinos/Pachy/Pachy_Character_BP.Pachy_Character_BP_C",
+						"dino": "/Game/PrimalEarth/Dinos/CrystalWyvern/CrystalWyvern_Character_BP_Ember.CrystalWyvern_Character_BP_Ember_C",
 						"chancetodrop": 0.95
 					},
 					{
-						"dino": "/Game/PrimalEarth/Dinos/Microraptor/Microraptor_Character_BP.Microraptor_Character_BP_C",
+						"dino": "/Game/PrimalEarth/Dinos/CrystalWyvern/CrystalWyvern_Character_BP_WS.CrystalWyvern_Character_BP_WS_C",
 						"chancetodrop": 0.9
 					},
 					{
@@ -159,7 +159,7 @@
 						"chancetodrop": 0.7
 					},
 					{
-						"dino": "/Game/PrimalEarth/Dinos/Dimetrodon/Dimetro_Character_BP.Dimetro_Character_BP_C",
+						"dino": "/Game/PrimalEarth/Dinos/Equus/Equus_Character_BP_Unicorn.Equus_Character_BP_Unicorn_C",
 						"chancetodrop": 0.9
 					},
 					{
@@ -183,7 +183,7 @@
 						"chancetodrop": 0.7
 					},
 					{
-						"dino": "/Game/PrimalEarth/Dinos/Purlovia/Purlovia_Character_BP.Purlovia_Character_BP_C",
+						"dino": "/Game/PrimalEarth/Dinos/Raptor/Uberraptor/Deinonychus_Character_BP.Deinonychus_Character_BP
 						"chancetodrop": 0.7
 					},
 					{
@@ -220,7 +220,7 @@
 						"chancetodrop": 0.7
 					},
 					{
-						"dino": "/Game/PrimalEarth/Dinos/Dunkleosteus/Dunkle_Character_BP.Dunkle_Character_BP_C",
+						"dino": "/Game/ASA/Dinos/Deinotherium/Dinos/DeinotheriumASA_Character_BP.DeinotheriumASA_Character_BP_C",
 						"chancetodrop": 0.8
 					},
 					{
