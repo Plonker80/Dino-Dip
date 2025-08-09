@@ -402,9 +402,9 @@
 						"chancetodrop": 0.3
 					},
 					{
-						"dino": "/Game/Aberration/Dinos/RockDrake/RockDrake_Character_BP.RockDrake_Character_BP
+						"dino": "/Game/Aberration/Dinos/RockDrake/RockDrake_Character_BP.RockDrake_Character_BP_C",
 						"chancetodrop": 0.3
-					},
+					}
 				],
 				"dipstogive": 5
 			}
