@@ -1,5 +1,6 @@
 {
-	"alwaysallowtaming": [
+	"DinoDipConfig": {
+		"alwaysallowtaming": [
 			"/Game/PrimalEarth/Items/Raft/Raft_BP.Raft_BP_C",
 			"/Game/Extinction/Dinos/Mek/Mek_Character_BP.Mek_Character_BP_C",
 			"/Game/Extinction/Dinos/Enforcer/Enforcer_Character_BP.Enforcer_Character_BP_C",
