@@ -391,7 +391,7 @@
 				],
 				"dipstogive": 5
 			},
-			}
+			{
 			    "weekforoptions": [
 					{
 						"dino": "/Game/ASA/Dinos/Cat/Cat_Character_BP.Cat_Character_BP_C",
