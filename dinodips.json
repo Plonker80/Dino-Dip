@@ -336,7 +336,7 @@
 			{
 				"weekforoptions": [
 					{
-						"dino": "/Game/PrimalEarth/Dinos/Titanosaur/Titanosaur_Character_BP.Titanosaur_Character_BP_C",
+						"dino": "/Game/PrimalEarth/Dinos/DodoRex/DodoRex_Character_BP.DodoRex_Character_BP_C",
 						"chancetodrop": 0.1
 					},
 					{
