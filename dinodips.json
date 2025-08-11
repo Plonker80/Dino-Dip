@@ -139,7 +139,7 @@
 						"chancetodrop": 0.9
 					},
 					{
-						"dino": ""/Game/Genesis2/Dinos/MilkGlider/MilkGlider_Character_BP.MilkGlider_Character_BP_C",
+						"dino": "/Game/Genesis2/Dinos/MilkGlider/MilkGlider_Character_BP.MilkGlider_Character_BP_C",
 						"chancetodrop": 0.95
 					}
 				],
