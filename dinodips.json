@@ -403,7 +403,7 @@
 						"chancetodrop": 1
 					},
 					{
-						"dino": "/Game/PrimalEarth/Dinos/Dodo/Dodo_Character_BP.Dodo_Character_BP_C",
+						"dino": "/Game/Fjordur/Dinos/Fjordhawk/Fjordhawk_Character_BP.Fjordhawk_Character_BP_C",
 						"chancetodrop": 1
 					},
 					{
@@ -419,7 +419,7 @@
 						"chancetodrop": 1
 					},
 					{
-						"dino": "/Game/PrimalEarth/Dinos/Archaeopteryx/Archa_Character_BP.Archa_Character_BP_C",
+						"dino": "/Game/PrimalEarth/Dinos/Tropeognathus/Tropeognathus_Character_BP.Tropeognathus_Character_BP_C",
 						"chancetodrop": 1
 					},
 					{
@@ -443,7 +443,7 @@
 						"chancetodrop": 1
 					},
 					{
-						"dino": "/Game/PrimalEarth/Dinos/Pegomastax/Pegomastax_Character_BP.Pegomastax_Character_BP_C",
+						"dino": "/Game/ScorchedEarth/Dinos/DodoWyvern/DodoWyvern_Character_BP.DodoWyvern_Character_BP_C",
 						"chancetodrop": 1
 					},
 					{
@@ -451,7 +451,7 @@
 						"chancetodrop": 1
 					},
 					{
-						"dino": "/Game/PrimalEarth/Dinos/Dilo/Dilo_Character_BP.Dilo_Character_BP_C",
+						"dino": "/Game/Genesis/Dinos/SpaceWhale/SpaceWhale_Character_BP.SpaceWhale_Character_BP_C",
 						"chancetodrop": 0.9
 					}
 				],
@@ -533,7 +533,7 @@
 						"chancetodrop": 0.9
 					},
 					{
-						"dino": "/Game/PrimalEarth/Dinos/Stego/Stego_Character_BP.Stego_Character_BP_C",
+						"dino": "/Game/PrimalEarth/Dinos/IceGolem/IceGolem_Character_BP.IceGolem_Character_BP_C",
 						"chancetodrop": 0.8
 					},
 					{
