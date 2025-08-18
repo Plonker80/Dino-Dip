@@ -25,8 +25,8 @@
 			"/Game/LostColony/Dinos/YoungIceFox/YoungIceFox_DinoCompanion_Character_BP.YoungIceFox_DinoCompanion_Character_BP_C",
 			"/Game/Packs/Wasteland/Dinos/Doggo/Doggo_DinoCompanion_Character_BP.Doggo_DinoCompanion_Character_BP_C",
 			"/Game/Packs/Wasteland/Dinos/Doggo/Doggo_Character_BP.Doggo_Character_BP_C",
-			"/Game/Genesis2/Dinos/LionfishLion/LionfishLion_Character_BP.LionfishLion_Character_BP_C"
-            "/Game/Aberration/Dinos/RockDrake/RockDrake_Character_BP.RockDrake_Character_BP_C"
+			"/Game/Genesis2/Dinos/LionfishLion/LionfishLion_Character_BP.LionfishLion_Character_BP_C",
+            "/Game/Aberration/Dinos/RockDrake/RockDrake_Character_BP.RockDrake_Character_BP_C",
             "/Game/Fjordur/Dinos/Desmodus/Desmodus_Character_BP.Desmodus_Character_BP_C",
             "/Game/PrimalEarth/Dinos/CrystalWyvern/CrystalWyvern_Character_BP_Blood.CrystalWyvern_Character_BP_Blood_C",
             "/Game/ASA/Dinos/FireLion/FireLion_Character_BP.FireLion_Character_BP_C",
@@ -65,7 +65,6 @@
             "/Game/PrimalEarth/Dinos/DodoRex/DodoRex_Character_BP.DodoRex_Character_BP_C",
             "/Game/Genesis/Dinos/BogSpider/BogSpider_Character_BP.BogSpider_Character_BP_C",
             "/Game/Genesis2/Dinos/MilkGlider/MilkGlider_Character_BP.MilkGlider_Character_BP_C",
-			"/Game/Packs/Steampunk/Dinos/Zeppelin/Zeppelin_Character_BP.Zeppelin_Character_BP_C"
 			"/Game/Packs/Steampunk/Dinos/Zeppelin/Zeppelin_Character_BP.Zeppelin_Character_BP_C"
 		],
 		"weeksarrays": [
